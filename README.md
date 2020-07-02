@@ -1,6 +1,6 @@
 ## Regular Expressions
----
-#### Actual version v0.0.1
+
+#### Actual version v0.0.3
 ---
 #### Simple form with regular expressions and pattern attribute including:
 1. pattern for name
